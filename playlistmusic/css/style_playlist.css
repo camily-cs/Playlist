@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding:0%;
+}
+
+header{
+    background-color: #ff0080;
+    height: 50px;
+    margin-top: 0%;
+}
+
+img{
+    width: 80px;
+    height: 75px;
+}
+
+body{
+    background-color:mistyrose;
+}
+
+section{
+    margin-top: 50px;
+    margin-left: 25%;
+}
+
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(189, 12, 100);
+}
+
+td, th{
+    padding: 8px;
+}

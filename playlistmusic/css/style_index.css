@@ -1,0 +1,85 @@
+
+*{
+    margin: 0;
+    padding:0%;
+}
+
+header{
+    background-color: #ff0080;
+    height: 50px;
+    margin-top: 0%;
+}
+
+img{
+    width: 210px;
+    height: 200px;
+    border-radius: 200px;
+    padding-right: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    margin-top: 0%;
+    background-color:mistyrose;
+}
+
+section{
+    margin-top: 180px;
+    display: flex;
+    margin-left: 4%;
+    
+}
+
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: whitesmoke;
+}
+
+h1:hover{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color:lightslategrey;
+}
+
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(189, 12, 100);
+    margin-left: 17%;
+}
+
+h2:hover{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:crimson;
+    margin-left: 17%;
+}
+
+button{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    border: 2;
+    margin-bottom: 1em;
+    background-color: crimson;
+    color: whitesmoke;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2); /* sombra */
+    width: 100px;
+    height: 40px;
+}
+
+button:hover{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    border: 2;
+    margin-bottom: 1em;
+    background-color: dimgrey;
+    color: whitesmoke;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2); /* sombra */
+    width: 90px;
+    height: 40px;
+}
+
+/* .center{
+    align-items: center;
+} */
